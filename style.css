@@ -1,0 +1,38 @@
+.bg-green {
+  background-color: rgb(0, 131, 116);
+}
+
+.bg-hero {
+  background-image: url(impact-hero.png);
+  min-height: 75vh;
+}
+
+.serv-card {
+  min-height: 30vh;
+}
+
+.hero-card {
+  min-height: 20vh;
+  transform: translateY(-125px)
+}
+
+.about-card1 {
+  background-image: url(photo-1664575262619-b28fef7a40a4.avif);
+  min-height: 40vh;
+  border-radius: 15px;
+}
+
+.bg-chart {
+  background-image: url("https://plus.unsplash.com/premium_photo-1663013659189-58ff1c9e1976?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  min-height: 40vh;
+}
+
+.bg-chart2 {
+  background-image: url("https://canvasjs.com/wp-content/uploads/images/gallery/javascript-charts/overview/javascript-charts-graphs-index-data-label.png");
+
+  min-height: 40vh;
+}
+
+.vid-shadow {
+  box-shadow: 10px 10px 8px #000000;
+}
